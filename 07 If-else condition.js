@@ -1,4 +1,4 @@
-console.log('This is tutorial 8');
+console.log('if else condition and switch case');
 const age = 128;
 const doesDrive = false;
 const vari = 34;
